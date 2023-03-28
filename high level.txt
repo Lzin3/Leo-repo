@@ -1,0 +1,14 @@
+high level
+Ruby: a dynamic, object-oriented programming language that is widely used for building web applications and automation scripts.
+
+Swift: a powerful and intuitive programming language that is widely used for building iOS and macOS apps.
+
+Kotlin: a modern programming language that is used for building Android apps, web applications, and server-side applications.
+
+low level
+
+Rust: Rust is a system programming language that provides low-level control over the computer's resources. Rust is often used for building high-performance software, including operating systems, game engines, and web browsers.
+
+Assembly Language: This is a low-level programming language that is used to write code that can be directly executed by the CPU. Assembly language is used to write operating systems, device drivers, and other system software.
+
+Machine Language: This is the lowest-level programming language that can be used to program a computer. It consists of binary code that can be executed by the computer's CPU.
